@@ -1,0 +1,29 @@
+h1 {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+
+p {
+    font-family: serif;
+    color: black;
+}
+
+
+h2 {
+    font-family: serif;
+    color: black;
+}
+
+
+.important {
+    font-size: 22px;
+    color: red;
+}
+
+.unimportant {
+    font-size: 22px;
+    color: blue;
+}
+
+
